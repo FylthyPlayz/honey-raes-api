@@ -71,6 +71,16 @@
             "id": 2,
             "name": "Rose Schmitt",
             "specialty": "Printers"
+        },
+        {
+            "id": 2,
+            "name": "Bobby Parker",
+            "specialty": "PlayStations"
+        },
+        {
+            "id": 2,
+            "name": "Major Malfunction",
+            "specialty": "Xboxes"
         }
     ],
     "serviceTickets": [
